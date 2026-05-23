@@ -1,21 +1,35 @@
-# 👋Welcome
-## I'm ElysiaRealme
+# Welcome / 欢迎
 
-## Special Note: My GitHub repositories are primarily used for commercial and freelance project deliveries, and are set to Private due to client Non-Disclosure Agreements (NDAs).If you (HR/Recruiter) are visiting via the resume link and wish to review project details or code architecture, please feel free to contact me for access permission. I am also very happy to provide detailed demonstrations during the interview process.
+## I'm ElysiaRealme / 我是 ElysiaRealme
 
-## 特别说明：由于我的 GitHub 仓库主要用于交付商业与外包项目，出于客户保密协议 (NDA) 考量，均已设置为 Private。 若您(HR)从简历链接中来访，希望查阅项目细节或代码架构，请随时联系我开放访问权限，我也非常乐意在面试环节中进行详细演示。
+## NDA Project Notes / NDA 项目说明
 
-## Core Competencies
-- AI Productivity: Deep integration of Cursor, CodeX, various CLIs, Agents, and MCP Servers to achieve high-efficiency coding and prompt engineering.
+My GitHub repositories are primarily used for commercial and freelance project deliveries. Most source repositories are private due to client Non-Disclosure Agreements (NDAs).
 
-- Engineering Implementation: Focused on the full lifecycle from solution to deployment. Moving beyond just Notebooks, I excel at rapid packaging, deployment, and system maintenance.
+我的 GitHub 仓库主要用于商业项目与外包项目交付。由于客户保密协议（NDA）要求，大部分源码仓库不会公开。
 
-- Interdisciplinary Background: Skilled in macro/crypto market analysis and quantitative risk control, capable of embedding business insights into technical solutions. 5+ years of experience in multimedia creation and AIGC.
+For HR, recruiters, or collaborators who want to understand project scope, architecture, and technical decisions, I maintain sanitized project READMEs and case studies here:
 
-## Tech Stack
-- AI/ML: PyTorch
-- Backend & Data: Python, FastAPI, Flask
+如果您是 HR、招聘方或潜在合作方，希望了解项目范围、架构设计与技术决策，我会在下面的仓库维护脱敏后的项目 README 与案例说明：
 
-## Contact
+[Project Showcase / 脱敏项目说明](https://github.com/ElysiaRealme/project-showcase)
+
+Source code can be reviewed only with explicit permission or during an interview/demo session.
+
+源码仅在获得明确授权后，或在面试/演示环节中进行说明与展示。
+
+## Core Competencies / 核心能力
+
+- **AI Productivity / AI 工程效率:** Deep integration of Cursor, Codex, CLIs, Agents, and MCP Servers for efficient coding, prompt engineering, and workflow automation.
+- **Engineering Implementation / 工程落地:** Full lifecycle from solution design to packaging, deployment, and maintenance, beyond notebook-only prototypes.
+- **Interdisciplinary Background / 复合背景:** Macro/crypto market analysis, quantitative risk control, multimedia creation, and AIGC experience.
+
+## Tech Stack / 技术栈
+
+- **AI/ML:** PyTorch
+- **Backend & Data / 后端与数据:** Python, FastAPI, Flask
+
+## Contact / 联系方式
+
 - GitHub: https://github.com/ElysiaRealme
 - Email: ifireflyfans@gmail.com
