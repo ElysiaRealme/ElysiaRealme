@@ -26,8 +26,10 @@ Source code can be reviewed only with explicit permission or during an interview
 
 ## Tech Stack / 技术栈
 
-- **AI/ML:** PyTorch
-- **Backend & Data / 后端与数据:** Python, FastAPI, Flask
+- **Computer Vision / 计算机视觉:** PyTorch, OpenCV, image classification, visual inspection, OCR, image pipelines.
+- **Automation & RPA / 自动化与 RPA:** Browser automation, desktop automation, ERP workflows, operational tools.
+- **AI & LLM / AI 与大模型:** Cursor, Codex, Agents, MCP Servers, prompt systems, AI productivity tooling.
+- **Data & Backend / 数据与后端:** Python, FastAPI, APIs, dashboards, data processing, deployment and maintenance.
 
 ## Contact / 联系方式
 
